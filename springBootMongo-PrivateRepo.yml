@@ -15,7 +15,7 @@ spec:
       imagePullSecrets:
       - name: dockerreposecret
       containers:
-      - image: rkeram1/spring
+      - image: rkeram1/spring1
         name: springboot
         ports:
         - name: springboot
